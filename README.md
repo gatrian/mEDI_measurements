@@ -1,8 +1,9 @@
 # mEDI_measurements
 mEDI measurements for a period of 10 days in a typical office in Copenhagen Denmark. 
+
 In total there are 1600 measurements
 
-Parameters include: Day &amp; Time, Daylight / electric light, Direction of view, Position (distance from window)
+Parameters include: Day &amp; Time, Daylight / Electric light, Direction of view, Position (distance from window)
 
 - DAY: Values 1 to 10
 
@@ -16,7 +17,7 @@ Parameters include: Day &amp; Time, Daylight / electric light, Direction of view
 
 - mEDI: melanopic Equivalent Daylight Illuminance value
 
-- RECOMMENDATION: Above or below (value >= 250)
+- RECOMMENDATION: Above or below the threshold (mEDI value >= 250). Threshold suggested by Brown T.M. et al. “Recommendations for daytime, evening, and nighttime indoor light exposure to best...”; PLoS Biol 20(3): e3001571
 
 
 
