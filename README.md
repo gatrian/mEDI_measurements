@@ -1,9 +1,9 @@
 # mEDI_measurements
 mEDI measurements for a period of 10 days in a typical office in Copenhagen Denmark. 
 
-In total there are 1600 measurements
+In total there are 1600 measurements.
 
-Parameters include: Day &amp; Time, Daylight / Electric light, Direction of view, Position (distance from window)
+Parameters include: **Day &amp; Time**, **Daylight / Electric light**, **Direction of view**, **Position (distance from window)**.
 
 - DAY: Values 1 to 10
 
