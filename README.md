@@ -5,6 +5,10 @@ In total there are 1600 measurements.
 
 Parameters include: **Day &amp; Time**, **Daylight / Electric light**, **Direction of view**, **Position (distance from window)**.
 
+Spectrometer used: GL SPECTIS 1.0 Touch + Flicker (mEDI was measured 120cm above the floor on a vertical plane)
+
+Columns:
+
 - DAY: Values 1 to 10
 
 - TIME: 9 or 11 or 13 or 15 or 17 (each number corresponds to time eg 09.00 or 11.00)
