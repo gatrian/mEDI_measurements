@@ -1,9 +1,9 @@
-# mEDI_measurements
-mEDI measurements for a period of 10 days in a typical office in Copenhagen Denmark. 
 
-In total there are 1600 measurements.
+mEDI measurements and ALFA simulations for a period of 10 days in a typical office in Copenhagen Denmark. 
 
-Parameters include: **Day &amp; Time**, **Daylight / Electric light**, **Direction of view**, **Position (distance from window)**.
+In total there are 1600 measurements and 1600 calculations with ALFA
+
+Parameters include: **Day &amp; Time**, **Daylight / Electric light**, **Direction of view**, **Position (distance from window)**, **Sky Type**.
 
 Spectrometer used: GL SPECTIS 1.0 Touch + Flicker (mEDI was measured 120cm above the floor on a vertical plane)
 
@@ -19,12 +19,19 @@ Columns:
 
 - DIRECTION: window or task (towards window or towards the task desk)
 
-- mEDI: melanopic Equivalent Daylight Illuminance value
+- mEDI: the value of the measured melanopic Equivalent Daylight Illuminance
 
-- RECOMMENDATION: Above or below the threshold (mEDI value >= 250). Threshold suggested by Brown T.M. et al. “Recommendations for daytime, evening, and nighttime indoor light exposure to best...”; PLoS Biol 20(3): e3001571
+- RECOMMENDATION: measured mEDI value above or below the threshold (mEDI >= 250)
+- 
+- ALFA mEDI: the calculated value of melanopic Equivalent Daylight Illuminance using ALFA simulation
+
+- ALFA RECOMMENDATION: calculated mEDI value above or below the threshold (mEDI >= 250)
+
+
+Threshold suggested by Brown T.M. et al. “Recommendations for daytime, evening, and nighttime indoor light exposure to best...”; PLoS Biol 20(3): e3001571
 
 Colab notebook for analysing the dataset:
 https://colab.research.google.com/drive/1NiZZ6bFU0yV6oZGEGGxpfDfemH1YWfOM?usp=sharing
 
-Dataset made by Gabriele Zoochi and supervised by Georgios Triantafyllidis
+Dataset made by Gabriele Zoochi and supervised by Georgios Triantafyllidis in Lighting Design Lab AAU (https://www.light.aau.dk/)
 
