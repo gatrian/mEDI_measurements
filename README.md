@@ -26,3 +26,5 @@ Columns:
 Colab notebook for analysing the dataset:
 https://colab.research.google.com/drive/1NiZZ6bFU0yV6oZGEGGxpfDfemH1YWfOM?usp=sharing
 
+Dataset made by Gabriele Zoochi and supervised by Georgios Triantafyllidis
+
