@@ -22,6 +22,8 @@ Columns in dataset:
 - mEDI: the value of the measured melanopic Equivalent Daylight Illuminance
 
 - RECOMMENDATION: measured mEDI value above or below the threshold (mEDI >= 250)
+
+- SKY TYPE: the sky type during the measurement - the same sky type was used for the simulation
   
 - ALFA mEDI: the calculated value of melanopic Equivalent Daylight Illuminance using ALFA simulation
 
