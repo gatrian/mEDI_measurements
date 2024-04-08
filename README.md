@@ -37,9 +37,11 @@ Preliminary colab notebook for analysing the dataset:
 https://colab.research.google.com/drive/1NiZZ6bFU0yV6oZGEGGxpfDfemH1YWfOM?usp=sharing
 
 Office:
+
 <img width="320" alt="image" src="https://github.com/gatrian/mEDI_measurements_ALFA_simulations/assets/159296200/97366110-8c29-445b-aa97-f953da2b7c66">
 
 Positions of measurements:
+
 <img width="320" alt="image" src="https://github.com/gatrian/mEDI_measurements_ALFA_simulations/assets/159296200/a443307e-fdc6-4ec6-96b3-c8eddfbb0151">
 
 Dataset made by Gabriele Zoochi and supervised by Georgios Triantafyllidis in Lighting Design Lab AAU (https://www.light.aau.dk/)
