@@ -31,7 +31,7 @@ Columns in dataset:
 
 Threshold suggested by Brown T.M. et al. “Recommendations for daytime, evening, and nighttime indoor light exposure to best...”; PLoS Biol 20(3): e3001571
 
-Note: mEDI calculations at 17:00 in the "dl" case were not possible (due to low daylight), so there are no mEDI calculations at 17.00
+Note: mEDI calculations at 17:00 in the "dl" case were not possible (due to low daylight), so mEDI values were set to 0
 
 Preliminary colab notebook for analysing the dataset:
 https://colab.research.google.com/drive/1NiZZ6bFU0yV6oZGEGGxpfDfemH1YWfOM?usp=sharing
