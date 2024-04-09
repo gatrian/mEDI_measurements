@@ -3,7 +3,17 @@ mEDI measurements and  mEDI calculations using ALFA simulations for a period of 
 
 In total there are 1600 measurements and 1600 calculations with ALFA.
 
-Parameters include: **Day &amp; Time**, **Daylight / Electric light**, **Direction of view**, **Position (distance from window)**, **Sky Type**.
+Parameters include: 
+
+**Day &amp; Time**, 
+
+**Daylight / Electric light**, 
+
+**Direction of view**, 
+
+**Position (distance from window)**, 
+
+**Sky Type**.
 
 Spectrometer used: GL SPECTIS 1.0 Touch + Flicker (mEDI was measured 120cm above the floor on a vertical plane)
 
