@@ -54,7 +54,7 @@ author = {Zoochi, G and Triantafyllidis, G},
 year = {2024},
 publisher = {GitHub},
 journal = {GitHub Repository},
-howpublished = {\url{https://github.com/gatrian/mEDI_measurements_ALFA_simulations}},
+howpublished = {https://github.com/gatrian/mEDI_measurements_ALFA_simulations},
 }
 ```
 
