@@ -5,15 +5,15 @@ In total there are 1600 measurements and 1600 calculations with ALFA.
 
 Parameters include: 
 
-**Day &amp; Time**, 
+- **Day &amp; Time**, 
 
-**Daylight / Electric light**, 
+- **Daylight / Electric light**, 
 
-**Direction of view**, 
+- **Direction of view**, 
 
-**Position (distance from window)**, 
+- **Position (distance from window)**, 
 
-**Sky Type**.
+- **Sky Type**.
 
 Spectrometer used: GL SPECTIS 1.0 Touch + Flicker (mEDI was measured 120cm above the floor on a vertical plane)
 
