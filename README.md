@@ -47,7 +47,7 @@ Dataset made by Gabriele Zoochi and supervised by Georgios Triantafyllidis in Li
 ## Citation
 
 If you find this project useful and wish to cite it in your work, please use the following BibTeX entry:
-
+```
 @misc{Zoochi2024,
 title = {A database of mEDI measurements and  mEDI calculations using ALFA simulations},
 author = {Zoochi, G and Triantafyllidis, G},
@@ -56,6 +56,7 @@ publisher = {GitHub},
 journal = {GitHub Repository},
 howpublished = {\url{https://github.com/gatrian/mEDI_measurements_ALFA_simulations}},
 }
+```
 
 
 
